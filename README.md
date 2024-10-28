@@ -1,6 +1,6 @@
 ## 概要
 
-AMIに関連付けられていないSnapShotを取得し、そのSnapShotにタグを付与する。
+AMIに関連付けられていないSnapShotを取得し、そのSnapShotにタグを付与する
 
 ## 事前準備
 
